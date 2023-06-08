@@ -17,4 +17,14 @@ public class First {
 
 
 	}
+	
+	public void name1()
+	{
+		
+		System.out.println("Hello World 3");
+		System.out.println("Hello World 4");
+
+
+	}
+}
 }
